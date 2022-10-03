@@ -1,0 +1,127 @@
+03/10/2022 , 20:31:31 , Everything is normal
+03/10/2022 , 21:38:00 , Everything is normal
+03/10/2022 , 21:38:04 , Everything is normal
+03/10/2022 , 21:38:07 , Everything is normal
+03/10/2022 , 21:38:11 , Everything is normal
+03/10/2022 , 21:38:14 , Everything is normal
+03/10/2022 , 21:38:18 , Everything is normal
+03/10/2022 , 21:38:21 , Everything is normal
+03/10/2022 , 21:38:25 , Everything is normal
+03/10/2022 , 21:38:28 , Everything is normal
+03/10/2022 , 21:38:32 , Everything is normal
+03/10/2022 , 21:38:35 , Everything is normal
+03/10/2022 , 21:38:39 , Everything is normal
+03/10/2022 , 21:38:42 , Everything is normal
+03/10/2022 , 21:38:46 , Everything is normal
+
+single IP same subnet
+
+03/10/2022 , 21:38:49 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 9
+03/10/2022 , 21:38:53 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 132
+03/10/2022 , 21:38:56 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 131
+03/10/2022 , 21:39:00 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 123
+03/10/2022 , 21:39:03 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 124
+03/10/2022 , 21:39:07 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 123
+03/10/2022 , 21:39:10 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 132
+03/10/2022 , 21:39:14 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 117
+03/10/2022 , 21:39:17 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 126
+03/10/2022 , 21:39:21 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 133
+03/10/2022 , 21:39:24 , SYN attack detected! Attacker IP: 172.20.10.4 No. of attempts: 97
+03/10/2022 , 21:39:28 , Everything is normal
+03/10/2022 , 21:39:31 , Everything is normal
+03/10/2022 , 21:39:35 , Everything is normal
+03/10/2022 , 21:39:38 , Everything is normal
+03/10/2022 , 21:39:42 , Everything is normal
+03/10/2022 , 21:39:45 , Everything is normal
+03/10/2022 , 21:39:49 , Everything is normal
+03/10/2022 , 21:39:52 , Everything is normal
+03/10/2022 , 21:39:56 , Everything is normal
+03/10/2022 , 21:39:59 , Everything is normal
+
+multiple IPs same subnet
+
+03/10/2022 , 21:40:03 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:06 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:10 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:13 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:17 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:20 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:24 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:28 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:31 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:35 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:38 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:42 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:45 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:40:49 , Everything is normal
+03/10/2022 , 21:40:52 , Everything is normal
+03/10/2022 , 21:40:56 , Everything is normal
+03/10/2022 , 21:40:59 , Everything is normal
+03/10/2022 , 21:41:03 , Everything is normal
+03/10/2022 , 21:41:06 , Everything is normal
+03/10/2022 , 21:41:10 , Everything is normal
+03/10/2022 , 21:41:13 , Everything is normal
+03/10/2022 , 21:41:17 , Everything is normal
+03/10/2022 , 21:41:20 , Everything is normal
+03/10/2022 , 21:41:24 , Everything is normal
+03/10/2022 , 21:41:27 , Everything is normal
+03/10/2022 , 21:41:31 , Everything is normal
+03/10/2022 , 21:41:34 , Everything is normal
+03/10/2022 , 21:41:38 , Everything is normal
+03/10/2022 , 21:41:41 , Everything is normal
+03/10/2022 , 21:41:45 , Everything is normal
+03/10/2022 , 21:41:48 , Everything is normal
+03/10/2022 , 21:41:52 , Everything is normal
+03/10/2022 , 21:41:55 , Everything is normal
+03/10/2022 , 21:41:59 , Everything is normal
+03/10/2022 , 21:42:02 , Everything is normal
+
+single IP different subnet
+
+03/10/2022 , 21:42:06 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 100
+03/10/2022 , 21:42:09 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 118
+03/10/2022 , 21:42:13 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 104
+03/10/2022 , 21:42:16 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 123
+03/10/2022 , 21:42:20 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 77
+03/10/2022 , 21:42:23 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 97
+03/10/2022 , 21:42:27 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 92
+03/10/2022 , 21:42:30 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 125
+03/10/2022 , 21:42:34 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 92
+03/10/2022 , 21:42:38 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 114
+03/10/2022 , 21:42:41 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 138
+03/10/2022 , 21:42:45 , SYN attack detected! Attacker IP: 145.63.155.238 No. of attempts: 45
+03/10/2022 , 21:42:48 , Everything is normal
+03/10/2022 , 21:42:52 , Everything is normal
+03/10/2022 , 21:42:55 , Everything is normal
+03/10/2022 , 21:42:59 , Everything is normal
+03/10/2022 , 21:43:02 , Everything is normal
+03/10/2022 , 21:43:06 , Everything is normal
+03/10/2022 , 21:43:09 , Everything is normal
+03/10/2022 , 21:43:13 , Everything is normal
+03/10/2022 , 21:43:16 , Everything is normal
+
+multiple IPs different subnet
+
+03/10/2022 , 21:43:20 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:23 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:27 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:30 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:34 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:37 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:41 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:44 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:48 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:51 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:55 , SYN attack detected! From multiple IPs 
+03/10/2022 , 21:43:58 , Everything is normal
+03/10/2022 , 21:44:02 , Everything is normal
+03/10/2022 , 21:44:05 , Everything is normal
+03/10/2022 , 21:44:09 , Everything is normal
+03/10/2022 , 21:44:12 , Everything is normal
+03/10/2022 , 21:44:16 , Everything is normal
+03/10/2022 , 21:44:19 , Everything is normal
+03/10/2022 , 21:44:23 , Everything is normal
+03/10/2022 , 21:44:26 , Everything is normal
+03/10/2022 , 21:44:30 , Everything is normal
+03/10/2022 , 21:44:33 , Everything is normal
+03/10/2022 , 21:44:37 , Everything is normal
