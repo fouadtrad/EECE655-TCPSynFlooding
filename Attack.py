@@ -9,7 +9,7 @@ import netifaces
 
 
 
-def getSubnet(ip): #mohammad
+def getSubnet(ip): 
     interfaces = netifaces.interfaces()
     subnetmask = ""
     for iface in interfaces:
@@ -22,7 +22,7 @@ def getSubnet(ip): #mohammad
 
 
 
-def getLocalIP(target,port): #chadi
+def getLocalIP(target,port): 
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     s.connect(("192.168.1.122", 80))
     ip = s.getsockname()[0]
@@ -30,7 +30,7 @@ def getLocalIP(target,port): #chadi
     return ip
 
 
-def getNetwork(target,port): #mohammad
+def getNetwork(target,port): 
     ip = getLocalIP(target,port)
     subnet = getSubnet(ip)
     network = ipaddress.IPv4Network(ip+"/"+subnet,strict=False)
@@ -45,7 +45,7 @@ def random_ip(network): #chadi
     return ip_address.exploded
 
 
-def SYN_DOS(destIP,destPort,counter,singleIPBool, subIPBool):  #chadi
+def SYN_DOS(destIP,destPort,counter,singleIPBool, subIPBool): 
     total = 0
     network = getNetwork(destIP,destIP)
     if singleIPBool and subIPBool:
@@ -110,7 +110,7 @@ def getNumofPackets(): #mohammad
             except ValueError:
                 print("Please Enter Correct Value")
 
-def getifSingleIP(): #mohammad 
+def getifSingleIP(): 
 
     while(True): #keep looping until y/n
         singleIP = input("Do you want to use a single IP for the attack (Y/N)? ")
@@ -121,7 +121,7 @@ def getifSingleIP(): #mohammad
         else:
             print("Please Enter Correct Value")
 
-def getifSameSubnet(): #mohammad 
+def getifSameSubnet(): 
 
     while(True): #keep looping until y/n
         sameSub = input("Do you want the spoofed IP to be on the same subnet (Y/N)? ")
@@ -132,7 +132,7 @@ def getifSameSubnet(): #mohammad
         else:
             print("Please Enter Correct Value")
 
-def getDestIP(): #Fouad
+def getDestIP():
     yourIP = input("Do you want to use your own IP as a victim (Y/N)? ")
 
     if(yourIP == "Y" or yourIP == "y"):   
@@ -145,7 +145,7 @@ def getDestIP(): #Fouad
     else:
         print("Please Enter Correct Value")
 
-def main():    #mohammad/chadi
+def main():
     os.system("cls") #Clearing the screen
     destIP = getDestIP()
     print("Destination IP is {}".format(destIP))
